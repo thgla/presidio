@@ -8,6 +8,9 @@ All notable changes to this project will be documented in this file.
 #### Analyzer
 Recognizer for Finnish Personal Identity Codes (Henkilötunnus).
 
+### Changed
+#### General
+* Updated documentation for Docker ensuring ports in the samples match the installation instructions
 
 ## [2.2.353] - March 31st 2024
 
